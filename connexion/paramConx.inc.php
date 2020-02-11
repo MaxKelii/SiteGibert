@@ -2,7 +2,7 @@
 define("HOST","localhost");
 define("USER","root");
 define("PASS","");
-define("BASE","mlr18");
+define("BASE","bibliotheque");
 define("PORT",3308);
 ?>
 
